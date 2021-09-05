@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820066075191",
+    "firebase_url": "https://sistem-4dfbe-default-rtdb.firebaseio.com",
+    "project_id": "sistem-4dfbe",
+    "storage_bucket": "sistem-4dfbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820066075191:android:017fcd94fda1d7064535b2",
+        "android_client_info": {
+          "package_name": "com.nexis.akvaryum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820066075191-st2oc95rg51jkdnv99qc9qi839r0obar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMvA-UaD-1NDMv38_GCAnq2NK4oSaEPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820066075191-st2oc95rg51jkdnv99qc9qi839r0obar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
